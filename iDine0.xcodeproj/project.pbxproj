@@ -20,6 +20,7 @@
 		3F4CF972270B57BC00F375A3 /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4CF971270B57BC00F375A3 /* ItemRow.swift */; };
 		3F4CF974270CA9FA00F375A3 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4CF973270CA9FA00F375A3 /* ItemDetail.swift */; };
 		3F4CF976271097D800F375A3 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4CF975271097D800F375A3 /* OrderView.swift */; };
+		3F4CF97827109CF100F375A3 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F4CF97727109CF100F375A3 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		3F4CF971270B57BC00F375A3 /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		3F4CF973270CA9FA00F375A3 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		3F4CF975271097D800F375A3 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		3F4CF97727109CF100F375A3 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				3F4CF93E270B522B00F375A3 /* iDine0App.swift */,
 				3F4CF940270B522B00F375A3 /* ContentView.swift */,
 				3F4CF973270CA9FA00F375A3 /* ItemDetail.swift */,
+				3F4CF97727109CF100F375A3 /* MainView.swift */,
 				3F4CF975271097D800F375A3 /* OrderView.swift */,
 				3F4CF971270B57BC00F375A3 /* ItemRow.swift */,
 				3F4CF969270B539900F375A3 /* Helper.swift */,
@@ -282,6 +285,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F4CF974270CA9FA00F375A3 /* ItemDetail.swift in Sources */,
+				3F4CF97827109CF100F375A3 /* MainView.swift in Sources */,
 				3F4CF976271097D800F375A3 /* OrderView.swift in Sources */,
 				3F4CF941270B522B00F375A3 /* ContentView.swift in Sources */,
 				3F4CF93F270B522B00F375A3 /* iDine0App.swift in Sources */,
