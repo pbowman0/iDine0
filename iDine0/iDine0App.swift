@@ -12,6 +12,7 @@ import SwiftUI
 struct iDine0App: App {
     
     @StateObject var order = Order()
+    @EnvironmentObject var order: Order
     
     var body: some Scene {
         WindowGroup {
